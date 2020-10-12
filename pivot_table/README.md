@@ -22,9 +22,11 @@ Which subgroup of respondents (sliced on relevant/interesting questions) are mos
 Inquire into patterns that exist in respondents ideas for changes to make in Hazelwood (Q6). Would creating sub-planning groups for neighborhood improvements based on age and gender makse sense to you based on the data? Is there a connection between the improvements folks would like to see and the Creative activities folks are interested in (Q29)?
 
 Female respondents are more likely have suggest changes for the community.
+ 
 ![Changes by Gender](changes_gender.png)
 
 Residents in age group 55-64 submitted the most responses for suggested changes. Generally, those that could be considered middle aged through older (ages 35-74) had the most suggestions for changes. 
+
 ![Changes by Age](changes_ages.png)
 
 Female respondents are also more likely to be interested in activities.
