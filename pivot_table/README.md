@@ -15,17 +15,59 @@ For respondents that rated the neighborhood appearance "Excellent" 68.75% would 
 ![Block Watch Percentages](block_watch_appearance.png)
 
 ## Inquiry 2
+Which subgroup of respondents (sliced on relevant/interesting questions) are most likely to have indiciated interest in a block watch?
 
 ## Inquiry 3
 
+Inquire into patterns that exist in respondents ideas for changes to make in Hazelwood (Q6). Would creating sub-planning groups for neighborhood improvements based on age and gender makse sense to you based on the data? Is there a connection between the improvements folks would like to see and the Creative activities folks are interested in (Q29)?
+
+Female respondents are more likely have suggest changes for the community.
+![Changes by Gender](changes_gender.png)
+
+Residents in age group 55-64 submitted the most responses for suggested changes. Generally, those that could be considered middle aged through older (ages 35-74) had the most suggestions for changes. 
+![Changes by Age](changes_age.png)
+
+Female respondents are also more likely to be interested in activities.
+![Activities by Gender](activities_gender.png)
+
+Respondents in the age group 55-64 had the highest response rate to the question "What kind of activities are you interested in?"
+![Activities by Age](activities_ages.png)
+
+It would be beneficial to create sub-planning group comprised of women aged 55-64.
+
+
 ## Inquiry 4
+To what degree are folks who indicate that they have special skills more likely to be willing to volunteer in the community (Q25)?
+
+There were a lot of skills represented in the dataset, so I decided to look at the responses of those who reported no skills. 
+
+About 37.3% of respondents indicated in some way that they did not possess special skills. 
+
+Of this 37.3%, they accounted for 45% of the "Don't Know" responses, 32.75% of the "No" responses, and 24.88% of the "Yes" responses to the question "Would you be willing to dedicate 2 hours a month to volunteer?"
+
+It appears those that do not consider themselves in posession of special skills seem more likely to either be unwilling to or unsure if they will volunteer.
+[Skills](skills_percentages.png)
+
+
 
 ## Inquiry 5
+"People who live in larger households (more people) tend to be happier" says the policy maker in Hazelwood. What can the survey data bring to bear on this assertion? What weaknesses exist in the data limiting their ability to contribute insight to this question?
+
+I was unable to pull data into a pivot table for this inquiry.
+
+
 
 ## Inquiry 6
+A town council member suggests that people who own their own home are more "community minded" than those who rent. A recently elected council person disagrees and claims that folks who rent their home are more likely to work lower wage jobs, allowing less time for community engagement. Can the survey data shed insight into this division of thought?
+
+Homeownership has no impact on whether the respondent would be willing to volunteer 2 hours per month. There were no major differences in responses from renters and owners. 
+
+![Volunteer Responses by Homeownership](home_ownership_volunteer.png) 
 
 
+Similarly, there is no major difference between renters and owners who actually volunteer their time.
 
+![ACtual Volunteer Responses by Homeownership](home_ownership_actual_volunteer.png) 
 
 ## Bonus Inquiry
 
