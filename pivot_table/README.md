@@ -25,12 +25,14 @@ Female respondents are more likely have suggest changes for the community.
 ![Changes by Gender](changes_gender.png)
 
 Residents in age group 55-64 submitted the most responses for suggested changes. Generally, those that could be considered middle aged through older (ages 35-74) had the most suggestions for changes. 
-![Changes by Age](changes_age.png)
+![Changes by Age](changes_ages.png)
 
 Female respondents are also more likely to be interested in activities.
+
 ![Activities by Gender](activities_gender.png)
 
 Respondents in the age group 55-64 had the highest response rate to the question "What kind of activities are you interested in?"
+
 ![Activities by Age](activities_ages.png)
 
 It would be beneficial to create sub-planning group comprised of women aged 55-64.
@@ -46,7 +48,8 @@ About 37.3% of respondents indicated in some way that they did not possess speci
 Of this 37.3%, they accounted for 45% of the "Don't Know" responses, 32.75% of the "No" responses, and 24.88% of the "Yes" responses to the question "Would you be willing to dedicate 2 hours a month to volunteer?"
 
 It appears those that do not consider themselves in posession of special skills seem more likely to either be unwilling to or unsure if they will volunteer.
-[Skills](skills_percentages.png)
+
+![Skills](skills_percentages.png)
 
 
 
