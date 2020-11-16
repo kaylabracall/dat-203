@@ -44,5 +44,13 @@ ggplot(data = stress_and_hr, aes(x=RHR, y=Stress.Level))+
 
 # plot active minutes
 ggplot(data = activity_df, aes(x = MinutesVeryActive))+
-  geom_histogram()
+  geom_histogram() ## reset scale to exclude 0?
 
+# plot active minutes by date?
+
+#plot resting heart rate by time of day
+ggplot(data = stress_and_hr, aes(x = RHR, y = Time.of.Day))+
+  geom_boxplot()
+
+ggplot(data = stress_and_hr, aes(x = RHR, y = Location))+
+  geom_boxplot()
