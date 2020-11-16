@@ -1,4 +1,4 @@
-Date,Calories Burned,Steps,Distance,Floors,Minutes Sedentary,Minutes Lightly Active,Minutes Fairly Active,Minutes Very Active,Activity Calories
+Date,CaloriesBurned,Steps,Distance,Floors,MinutesSedentary,MinutesLightlyActive,MinutesFairlyActive,MinutesVeryActive,ActivityCalories
 2020-09-01,1902,6823,2.84,0,1201,166,10,17,662
 2020-09-02,2102,9700,4.04,0,710,233,5,31,934
 2020-09-03,2129,10770,4.49,0,820,166,18,56,926
