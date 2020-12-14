@@ -1,0 +1,21 @@
+Data Dictionary,,,,
+,,,,
+Dataset Name,field,data_type,possible_values,definition
+stress2.csv,Date,datetime,date between 9/9/20 and 11/30/20,Date heart rate was recorded
+stress2.csv,Month,numeric,"9,10,11",Month of date
+stress2.csv,Time Of Day,text,"AM, Midday, Evening",Time of day heart rate was recorded
+stress2.csv,Stress Level,numeric,Value between 1 and 10,Self assessed stress level on scale from 1-10
+stress2.csv,Location,text,"work, home, other",Location when heart rate was recorded
+stress2.csv,RHR,numeric,Value between 64 and 96,Resting heart rate 
+visualizeyourself_data.csv,Activity Date,datetime,date between 9/9/20 and 11/30/20,Date exercise occurred
+visualizeyourself_data.csv,Activity  ,text,short answer,Duration and type of exercise
+visualizeyourself_data.csv,Activity Notes,text,short answer,Details on type of exercise
+exercise.csv,Date,data_type,date between 9/1/20 and 11/30/20,Date activity occurred
+exercise.csv,CaloriesBurned,numeric,Value between 1605 and 2402,Calories burned on date
+exercise.csv,Steps,numeric,Value between 3304 and 15250,Steps taken on date
+exercise.csv,Distance,numeric,Value between 1.38 and 6.65,Distance walked in miles on date 
+exercise.csv,MinutesSendentary,numeric,Value between 579 and 1258,Number of minutes sedentary on date
+exercise.csv,MinutesLightlyActive,numeric,Value between 111 and 356,Number of minutes being lightly active on date
+exercise.csv,MinutesFairlyActive,numeric,Value between 0 and 49,Number of minutes being fairly active on date
+exercise.csv,MinutesVeryActive,numeric,Value between 0 and 62,Number of minutes being very active on date
+exercise.csv,ActivityCalories,numeric,Value between 38 and 130,Calories burned specifically during activity on date
