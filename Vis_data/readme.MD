@@ -34,6 +34,18 @@ My average resting heart rate in November was 72.65 bpm and the most heart rate 
 
 ![November](nov.jpeg) "Histogram of resting heart rate in November"
 
+Addtionally, we can see that my activity decreased from October to November. Fitbit tracks activity in four categories:
+- Minutes Sedentary 
+- Minutes Lightly Active 
+- Minutes Fairly Active 
+- Minutes Very Active 
+
+Looking specifically at Minutes Very Active, in October I tracked 468 minutes of "very active" activity. In November, this decreased to 310 minutes. Let's visualize this decrease in activity.
+
+![October Activity](oct_active.jpeg)
+
+![November Activity](nov_active.jpeg)
+
 
 ## Alternate Findings
 While I was unable to prove a relationship between increased cardiovascular exercise and resting heart rate, I was able to visualize the effect that stress, time of day, and location have on my resting heart rate. 
@@ -53,6 +65,7 @@ Let's add a trendline to this.
 
 
 *Location and Time of Day*
+
 Additionally, I was able to see that my heart rate is higher on average during midday and when I am at work. These findings make sense, as I am typically more active during midday than I am during early morning or evening. Additionally, I am more likely to be stressed while at work than I am when I am at home or in a different location. Below we can see these findings visualized using boxplots. 
 
 ![Location](location.jpeg) "Location and heart rate"
