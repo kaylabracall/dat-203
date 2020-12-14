@@ -43,10 +43,12 @@ While I was unable to prove a relationship between increased cardiovascular exer
 As alluded to above, my stress seemed to have a weak casual relationship to my resting heart rate. My stress level was higher on average in November, and both my average heart rate and most common heart rate value in November were higher. 
 
 Here is heart rate graphed with stress level. 
+
 ![stress](stress.jpeg) "Stress and resting heart rate"
 
 
 Let's add a trendline to this. 
+
 ![trendline](trendline.jpeg) 
 
 
