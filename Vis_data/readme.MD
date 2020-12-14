@@ -2,4 +2,4 @@
 Kayla Bracall
 Fall 2020
 
-![histogram](oct.png "Test")
+![histogram](oct.png)
