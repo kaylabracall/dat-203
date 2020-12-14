@@ -18,7 +18,7 @@ After all data was collected, I am not able to conclude that I was able to lower
 
 Below we can see that resting heart rate remains relatively consistent over time. 
 
-![RHR Over Time ](RHR_over_time.jpeg) "Resting heart rate over time - no marked decrease"
+![RHR Over Time ](RHR_over_time.jpeg) 
 
 I also broke down the data by month and looked at October data vs November data. 
 
@@ -26,15 +26,15 @@ I also broke down the data by month and looked at October data vs November data.
 
 My average resting heart rate in October was 69.333 bpm while the most common value was 64 bpm. My average stress level in October was 3.133. A histogram of October resting heart rate values is below.
 
-![October](oct.jpeg) "Histogram of resting heart rate in October"
+![October](oct.jpeg) 
 
 *November*
 
 My average resting heart rate in November was 72.65 bpm and the most heart rate in November was 68 bpm. My average stress level in November was 3.5. 
 
-![November](nov.jpeg) "Histogram of resting heart rate in November"
+![November](nov.jpeg) 
 
-Addtionally, we can see that my activity decreased from October to November. Fitbit tracks activity in four categories:
+Additionally, we can see that my activity decreased from October to November. Fitbit tracks activity in four categories:
 - Minutes Sedentary 
 - Minutes Lightly Active 
 - Minutes Fairly Active 
@@ -56,7 +56,7 @@ As alluded to above, my stress seemed to have a weak casual relationship to my r
 
 Here is heart rate graphed with stress level. 
 
-![stress](stress.jpeg) "Stress and resting heart rate"
+![stress](stress.jpeg) 
 
 
 Let's add a trendline to this. 
@@ -68,11 +68,16 @@ Let's add a trendline to this.
 
 Additionally, I was able to see that my heart rate is higher on average during midday and when I am at work. These findings make sense, as I am typically more active during midday than I am during early morning or evening. Additionally, I am more likely to be stressed while at work than I am when I am at home or in a different location. Below we can see these findings visualized using boxplots. 
 
-![Location](location.jpeg) "Location and heart rate"
+![Location](location.jpeg) 
 
-![Time of Day](timeofday.jpeg)"Time of day and heart rate"
+![Time of Day](timeofday.jpeg)
 
+## Final Thoughts and Future Analysis 
+Although I was somewhat disappointed that I was unable to prove my original hypothesis, I do think that the other findings have merit. I was able to show that my resting heart rate is higher during midday compared to other times of day. I also was able too show that my resting heart rate is more elevated when I am work as opposed to other locations. Additionally, I was able to gain some insight into why I was unable to prove my original hypothesis, as my activity decreased over time. 
 
+For future students, I would recommend collecting data that can be influenced over a short period of time. I believe the biggest issue with my project is there was not enough time to make a discernible impact on my health which would result in a measurable difference in resting heart rate. 
+
+This project has led to more insight on my stress levels by location and throughout the day. I can use this data to help plan stress management strategies in my life. Additionally, I can extend my project and continue data collection to see if I can influence my resting heart rate through cardiovascular. 
 
 
 
