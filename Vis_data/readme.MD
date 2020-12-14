@@ -23,11 +23,13 @@ Below we can see that resting heart rate remains relatively consistent over time
 I also broke down the data by month and looked at October data vs November data. 
 
 *October*
+
 My average resting heart rate in October was 69.333 bpm while the most common value was 64 bpm. My average stress level in October was 3.133. A histogram of October resting heart rate values is below.
 
 ![October](oct.jpeg) "Histogram of resting heart rate in October"
 
 *November*
+
 My average resting heart rate in November was 72.65 bpm and the most heart rate in November was 68 bpm. My average stress level in November was 3.5. 
 
 ![November](nov.jpeg) "Histogram of resting heart rate in November"
