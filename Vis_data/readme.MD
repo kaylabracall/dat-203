@@ -77,7 +77,7 @@ Although I was somewhat disappointed that I was unable to prove my original hypo
 
 For future students, I would recommend collecting data that can be influenced over a short period of time. I believe the biggest issue with my project is there was not enough time to make a discernible impact on my health which would result in a measurable difference in resting heart rate. 
 
-This project has led to more insight on my stress levels by location and throughout the day. I can use this data to help plan stress management strategies in my life. Additionally, I can extend my project and continue data collection to see if I can influence my resting heart rate through cardiovascular. 
+This project has led to more insight on my stress levels by location and throughout the day. I can use this data to help plan stress management strategies in my life. Additionally, I can extend my project and continue data collection to see if I can influence my resting heart rate through cardiovascular exercise. 
 
 
 
